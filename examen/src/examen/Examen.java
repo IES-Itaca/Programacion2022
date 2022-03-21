@@ -13,4 +13,5 @@ public class Examen {
 //	cuentaPalabras()
 //	imprimeVertical()
 //	distCuatro()
+	String asd;
 }
