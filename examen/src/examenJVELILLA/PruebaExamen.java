@@ -9,7 +9,7 @@ public class PruebaExamen {
 	Scanner entrada = new Scanner(System.in);
 	Examen prueba = new Examen();
 	String opcion = "";
-	System.out.println(Examen.getNombre());
+	//System.out.println(Examen.getNombre());
 		
 	System.out.println("INTRODUCE LOS DATOS");
 	System.out.println("a. Introduce nombre");
